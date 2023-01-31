@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className={theme}>
       <h1>{user}</h1>
-      <h1>Header</h1>
+      <h1>Header!!!</h1>
       <input
         type="radio"
         onClick={handleTheme}
